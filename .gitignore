@@ -1,0 +1,31 @@
+.DS_Store
+.settings/
+target/
+dependency-reduced-pom.xml
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+.idea
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.classpath
+
+.project
+*.swp
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+*.st
+*.lock
+*-checkpoint
+/target/
+/.classpath
+/.project
+.idea
+biguiyuan.iml
+/src/main/java/com/cloudwise/project/bgy/jkb/TestClass.java
